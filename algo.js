@@ -1,1 +1,3 @@
-console.log('ola git')
+let nome
+nome = 'fulano'
+console.log('ola, ' + nome)
